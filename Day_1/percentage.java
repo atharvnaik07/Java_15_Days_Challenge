@@ -4,7 +4,7 @@ class UserInputDemo
 {
     public static void main(String[] args)
     {
-        // write a program to calculate percentage of a given student in cbsc bord exam his marks from 5 subjects must be taken as input from keyword.
+        //Exercise:-  write a program to calculate percentage of a given student in cbsc bord exam his marks from 5 subjects must be taken as input from keyword.
         Scanner sc= new Scanner(System.in);
         System.out.print("Enter marks of 1s sub :- ");
         int a= sc.nextInt();
